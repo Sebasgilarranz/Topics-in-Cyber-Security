@@ -13,3 +13,5 @@
 
 #### Why Hardening Windows is Important
 This presentation goes over points as to why it is important to harden the windows operating system.
+
+https://github.com/Sebasgilarranz/Topics-in-Cyber-Security-/blob/main/CIS%20final.pptx
